@@ -1,0 +1,60 @@
+1. Six combinations of access modifier keywords:
+   - public: Accessible from anywhere.
+   - private: Accessible only within the class.
+   - protected: Accessible within the class and its derived classes.
+   - internal: Accessible within the same assembly.
+   - protected internal: Accessible within the same assembly or derived classes.
+   - private protected: Accessible within the same class or derived classes within the same assembly.
+
+2. Difference between static, const, and readonly:
+   - static: Belongs to the type itself rather than an instance.
+   - const: Compile-time constant, cannot be changed.
+   - readonly: Runtime constant, can be assigned only during declaration or in the constructor.
+
+3. Constructor: Initializes an object of a class.
+
+4. partial keyword: Allows splitting the definition of a class, struct, or interface across multiple files.
+
+5. Tuple: A data structure that holds a sequence of elements of different types.
+
+6. record keyword: Defines a reference type that provides built-in functionality for encapsulating data.
+
+7. Overloading vs Overriding:
+   - Overloading: Multiple methods with the same name but different signatures.
+   - Overriding: Providing a new implementation of a method in a derived class.
+
+8. Field vs Property:
+   - Field: A variable that holds data directly.
+   - Property: A member that provides a flexible mechanism to read, write, or compute the value of a private field.
+
+9. Optional method parameter: Specify a default value in the method signature.
+
+10. Interface vs Abstract class:
+    - Interface: Defines a contract with no implementation.
+    - Abstract class: Can provide both abstract (no implementation) and concrete methods (implementation).
+
+11. Accessibility level of interface members: Public by default.
+
+12. True. Polymorphism allows derived classes to provide different implementations of the same method.
+
+13. True. The override keyword is used to indicate that a method in a derived class is providing its own implementation of a method.
+
+14. False. The new keyword is used to hide a method in a base class, not to override it.
+
+15. False. Abstract methods cannot be used in a non-abstract class.
+
+16. True. Normal methods can be used in an abstract class.
+
+17. True. Derived classes can override methods that were virtual in the base class.
+
+18. True. Derived classes can override methods that were abstract in the base class.
+
+19. False. In a derived class, you can override a method that was virtual or abstract in the base class, not a method that was neither.
+
+20. False. A class that implements an interface must provide implementations for all members of the interface.
+
+21. True. A class that implements an interface can have other members not defined in the interface.
+
+22. False. A class can have only one base class.
+
+23. True. A class can implement multiple interfaces.
