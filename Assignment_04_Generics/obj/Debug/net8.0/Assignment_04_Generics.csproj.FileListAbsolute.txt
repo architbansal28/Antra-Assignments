@@ -1,0 +1,14 @@
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/bin/Debug/net8.0/Assignment_04_Generics
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/bin/Debug/net8.0/Assignment_04_Generics.deps.json
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/bin/Debug/net8.0/Assignment_04_Generics.runtimeconfig.json
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/bin/Debug/net8.0/Assignment_04_Generics.dll
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/bin/Debug/net8.0/Assignment_04_Generics.pdb
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/obj/Debug/net8.0/Assignment_04_Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/obj/Debug/net8.0/Assignment_04_Generics.AssemblyInfoInputs.cache
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/obj/Debug/net8.0/Assignment_04_Generics.AssemblyInfo.cs
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/obj/Debug/net8.0/Assignment_04_Generics.csproj.CoreCompileInputs.cache
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/obj/Debug/net8.0/Assignment_04_Generics.dll
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/obj/Debug/net8.0/refint/Assignment_04_Generics.dll
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/obj/Debug/net8.0/Assignment_04_Generics.pdb
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/obj/Debug/net8.0/Assignment_04_Generics.genruntimeconfig.cache
+/Users/architbansal/RiderProjects/Assignment_04_Generics/Assignment_04_Generics/obj/Debug/net8.0/ref/Assignment_04_Generics.dll
