@@ -1,0 +1,22 @@
+@model MovieShop.Core.Entities.Cast
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <img src="@Model.ProfilePath" class="img-fluid" />
+        </div>
+        <div class="col-md-9">
+            <h2>@Model.Name</h2>
+            <p>Gender: @Model.Gender</p>
+            <h4>Movies</h4>
+            <ul class="list-group">
+                @foreach (var movieCast in Model.MovieCasts)
+                {
+                <li class="list-group-item">
+                    <a href="/Movies/Details/@movieCast.MovieId">@movieCast.Movie.Title as @movieCast.Character</a>
+                </li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>
